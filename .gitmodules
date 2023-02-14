@@ -13,3 +13,6 @@
 [submodule "here-mobile"]
 	path = here-mobile
 	url = https://github.com/hybrayhem/here-mobile
+[submodule "programming-languages"]
+	path = programming-languages
+	url = https://github.com/hybrayhem/programming-languages
