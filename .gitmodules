@@ -10,3 +10,6 @@
 [submodule "ProjectManagementSystem"]
 	path = ProjectManagementSystem
 	url = https://github.com/hybrayhem/ProjectManagementSystem
+[submodule "here-mobile"]
+	path = here-mobile
+	url = https://github.com/hybrayhem/here-mobile
