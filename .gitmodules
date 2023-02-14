@@ -7,3 +7,6 @@
 [submodule "data-structures-algorithms"]
 	path = data-structures-algorithms
 	url = https://github.com/hybrayhem/data-structures-algorithms
+[submodule "ProjectManagementSystem"]
+	path = ProjectManagementSystem
+	url = https://github.com/hybrayhem/ProjectManagementSystem
