@@ -1,3 +1,6 @@
 [submodule "computer-programming"]
 	path = computer-programming
 	url = https://github.com/hybrayhem/computer-programming
+[submodule "object-oriented-programming"]
+	path = object-oriented-programming
+	url = https://github.com/hybrayhem/object-oriented-programming
