@@ -4,3 +4,6 @@
 [submodule "object-oriented-programming"]
 	path = object-oriented-programming
 	url = https://github.com/hybrayhem/object-oriented-programming
+[submodule "data-structures-algorithms"]
+	path = data-structures-algorithms
+	url = https://github.com/hybrayhem/data-structures-algorithms
